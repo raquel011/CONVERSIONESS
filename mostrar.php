@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <form action="convertirKilos.php" method="post" name="p">
+    <form action="kilosgramos.php" method="post" name="mostrar">
         <label>ingrese un numero (kg)<input type="text" name="c1"/><br/>
         
         
